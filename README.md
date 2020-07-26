@@ -15,6 +15,12 @@
 ### Install matplotlib
 `pip3 install matplotlib`
 
+### Install tqdm
+`pip3 install tqdm`
+
+### Install numpy
+`pip3 install numpy`
+
 ## Steps to run the project
 
 Add training data set into the **train** data folder. In the **test** data folder add targeted test data set.
